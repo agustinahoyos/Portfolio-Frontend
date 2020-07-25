@@ -1,0 +1,41 @@
+.About{
+    background-color: rgb(218, 218, 218);
+    display: flex;
+    margin: 5rem auto ;
+    width: 80%;
+    padding: 2rem;
+    box-shadow: 10px 5px 5px black;
+   
+}
+.pic-div{
+    display: inline;
+    align-self: center;
+    justify-content: center;
+  
+    
+}
+
+.profile-pic{
+    width: 80%;
+    margin: 10px auto;
+
+
+}
+
+.description{
+   justify-content: center;
+
+}
+
+.Skills{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.skill{
+  background-color: rgb(255, 119, 28);
+  margin: 0.8rem;
+  color: black;
+  padding: 1rem;
+  border-radius: 10%;
+}

@@ -1,0 +1,30 @@
+.PortfolioCard{
+    display: flex;
+    flex-wrap: wrap;
+  
+}
+
+.project{
+    background-color: rgb(218, 218, 218);
+    margin: 2rem auto;
+    padding: 1rem;
+    width: 25%;
+    box-shadow: 10px 5px 5px black;
+    
+}
+
+.img-project{
+    width: 80%;
+}
+.project-description{
+    padding: 1%;
+    
+}
+.mylink{
+  font-size: 2rem;
+  text-decoration: none;
+  background-color: rgb(255, 119, 28);
+  color: black;
+  padding: 0.5rem;
+  border-radius: 10%;
+}
